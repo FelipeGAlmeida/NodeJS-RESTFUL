@@ -1,0 +1,20 @@
+{
+  "name": "t160-nodejs-restful",
+  "version": "1.0.0",
+  "description": "Creating REST APIs with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inatel/t160-nodejs-restful.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inatel/t160-nodejs-restful/issues"
+  },
+  "homepage": "https://github.com/inatel/t160-nodejs-restful#readme"
+}
