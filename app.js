@@ -3,6 +3,7 @@ const morgan = require('morgan')
 
 const app = express();
 app.use(morgan('dev'));
+app.use(express.json())
 
 // app.use((request, response, next) => {
 //     console.log(request.method, request.url)
